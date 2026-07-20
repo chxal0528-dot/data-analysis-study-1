@@ -118,15 +118,4 @@ a journey begins with a single step
 - Pandas 数据分析能力
 - 数据可视化能力
 - Jupyter Notebook 使用能力
-- 数据分析流程设计能力
-
----
-
-# Future Improvements
-
-未来计划：
-
-- 引入更多公开数据源
-- 使用机器学习方法进行预测分析
-- 优化数据处理流程
-- 探索数据分析在车辆工程领域中的应用
+- 数据分析流程设计
